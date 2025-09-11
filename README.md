@@ -11,7 +11,7 @@ This end-to-end solution highlights key data engineering practices:
 - Bronze Layer: Raw ingestion of ERP and CRM CSV files
 - Silver Layer: Cleaned and standardized data with unified schema 
 - Gold Layer: Business-ready tables for reporting and analytics
-![Data Architecture](https://github.com/pangwrl/sql-dwh-project/blob/main/docs/Data%20Architecture.pdf)
+[Data Architecture](https://github.com/pangwrl/sql-dwh-project/blob/main/docs/Data%20Architecture.pdf)
 
 ### 2. 🔄 ETL Pipelines
 - Built ETL workflows to:
