@@ -11,7 +11,7 @@ Implemented the Medallion Architecture with layered data processing:
 - Silver Layer: Cleaned and standardized data with unified schema 
 - Gold Layer: Business-ready tables for reporting and analytics
 
-![Data Architecture](docs/Data Architecture.PNG)
+![Data Architecture](docs/Data_Architecture.PNG)
 [Data Architecture](https://github.com/pangwrl/sql-dwh-project/blob/main/docs/Data%20Architecture.pdf)
 
 ### 2. 🔄 ETL Pipelines
