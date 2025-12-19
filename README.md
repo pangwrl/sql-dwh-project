@@ -11,7 +11,7 @@ Implemented the Medallion Architecture with layered data processing:
 - Silver Layer: Cleaned and standardized data with unified schema 
 - Gold Layer: Business-ready tables for reporting and analytics
 
-![Data Architecture](docs/Data Architecture.png)
+![Data Architecture](docs/Data Architecture.PNG)
 [Data Architecture](https://github.com/pangwrl/sql-dwh-project/blob/main/docs/Data%20Architecture.pdf)
 
 ### 2. 🔄 ETL Pipelines
@@ -26,7 +26,7 @@ Designed a dimensional model with:
 - Dimension tables for customers and products
 - Optimized for analytical queries and dashboard integration
 
-![Data_Flow](docs/Data_Flow.png)
+![Data_Flow](docs/Data_Flow.PNG)
 
 ## 📂 Repository Structure
 ```
